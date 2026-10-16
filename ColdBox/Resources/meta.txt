@@ -1,0 +1,16 @@
+hingeX=0.39259597659111023
+hingeY=0.629647433757782
+hingeZ=0.0
+openSign=-1
+colSizeX=0.869975
+colSizeY=0.695285
+colSizeZ=1.572426
+colCenterX=0.042392
+colCenterY=0.347643
+colCenterZ=-0.186213
+snowTopY=0.557146
+snowBottomY=0.466215
+latchX=-0.380000
+lidMinY=0.629647
+lidMaxY=0.695285
+scaleApplied=0.002780
