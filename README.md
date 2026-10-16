@@ -90,4 +90,4 @@ model so the lid is 1.2 m long (`TARGET_LEN`). Textures: `texture.jpg` (plain ta
 - No integration with the game's furniture editor (no public API found); the mod has its own placement mode.
 
 ## License
-Source code: MIT (see `LICENSE`). The 3D model and textures are the author's own assets.
+Source code: MIT (see `LICENSE`). met original concept and idea, custom 3D models, textures, and particle effects. stykko mod development and implementation, bringing the concept and assets together into a functional mod, with assistance from the AI coding assistant Claude.
